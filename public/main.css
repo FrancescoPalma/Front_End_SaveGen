@@ -10,13 +10,31 @@ main {
 }
 
 .brand-logo {
-  font-family: lato;
+  font-family: Raleway, sans-serif;
   letter-spacing: 0.5px;
 }
 
+#main {
+  height: 500px;
+  width: 300px;
+}
+
+td img {
+  height: 150px;
+  width: 150px;
+}
+
 .slogan {
-  font-family: roboto;
+  font-family: Roboto;
   font-size: 25px;
+}
+
+h5 {
+  font-family: Roboto;
+}
+
+b {
+  font-family: Raleway, sans-serif;
 }
 
 .page-footer p {
