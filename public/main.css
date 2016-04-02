@@ -2,8 +2,24 @@ body {
   display: flex;
   min-height: 100vh;
   flex-direction: column;
+  background-color: #ebebeb;
 }
 
 main {
   flex: 1 0 auto;
+}
+
+.brand-logo {
+  font-family: lato;
+  letter-spacing: 0.5px;
+}
+
+.page-footer p {
+  color: white;
+  margin-bottom: 10px;
+  margin-top: -5px;
+}
+
+.page-footer a {
+  color: green;
 }

@@ -6,6 +6,10 @@ app.get('/', function (req, res) {
   res.sendFile(path.join(__dirname + '/homepage.html'));
 });
 
+app.get('/form', function (req, res) {
+  res.sendFile(path.join(__dirname + '/form.html'));
+});
+
 
 app.use(express.static('public'));
 
