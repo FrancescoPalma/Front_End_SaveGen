@@ -14,6 +14,11 @@ main {
   letter-spacing: 0.5px;
 }
 
+.slogan {
+  font-family: roboto;
+  font-size: 25px;
+}
+
 .page-footer p {
   color: white;
   margin-bottom: 10px;
