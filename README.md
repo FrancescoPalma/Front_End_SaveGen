@@ -1,5 +1,5 @@
 # Front_End_SaveGen
-[FinTech Hackathon](https://www.eventbrite.co.uk/e/the-edinburgh-finance-themed-tech-hackathon-april-2016-tickets-21234279301) - SinglePage Website 
+[FinTech Hackathon](https://www.eventbrite.co.uk/e/the-edinburgh-finance-themed-tech-hackathon-april-2016-tickets-21234279301) - Promotional Website 
   
 I and [Peter](https://github.com/singhprd) have been in charge of creating a single page website to present the prototype of the native iOS app 'SaveGen' for the hackathon.
   
